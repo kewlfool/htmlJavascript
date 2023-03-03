@@ -1,4 +1,10 @@
-/* Poem Matrix
+/* 
+
+Copied this code from https://qianqian-ye.com/Everyday/Day42/
+
+
+
+Poem Matrix
 This project is my interpretation of the poem 'Far and Near' by Gu Cheng. Gu Cheng switched YOU, ME and CLOUD frequently in this poem to question the relationship of human-human-distance and human-nature-distance.
 《远和近》
 你，
